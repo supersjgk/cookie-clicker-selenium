@@ -1,6 +1,6 @@
 # cookie-clicker-selenium
 
-A python script to automate the Cookie Clicker (https://orteil.dashnet.org/cookieclicker/) game using [Selenium](https://www.selenium.dev/).
+A python script to automate the Cookie Clicker game (https://orteil.dashnet.org/cookieclicker/) using [Selenium](https://www.selenium.dev/).
 
 This script only contains clicking and purchasing features. You may add more features.
 
